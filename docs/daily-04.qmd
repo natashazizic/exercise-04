@@ -3,7 +3,7 @@ title: "ESS 330 Actvity 4"
 subtitle: "Meet R, Quarto, & Github"
 author: Natasha Zizic
 date: 02/12/2025
-format:
+format: html 
   html:
     toc: true
 knitr:

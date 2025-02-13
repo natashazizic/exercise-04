@@ -4,3 +4,6 @@ author: "Natasha Zizic"
 date: 02/12
 format: html
 ---
+project:
+  type: website
+  output-dir: docs
